@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ciencia Ficción</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #c00;
+            padding: 10px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        h2 {
+            color: #c00;
+        }
+
+        .peliculas {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .pelicula {
+            background-color: #5d5c5c;
+            border: 2px solid #c00;
+            border-radius: 5px;
+            margin: 10px;
+            padding: 10px;
+            width: 200px;
+            text-align: center;
+            transition: transform 0.3s;
+        }
+
+        .pelicula:hover {
+            transform: scale(1.05);
+        }
+
+        .volver {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #c00;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .volver:hover {
+            background-color: #900;
+        }
+    </style>
+</head>
+
+<body>
+<header>
+    <h1>Ciencia Ficción</h1>
+    <img src="https://i.pinimg.com/736x/10/f9/91/10f9914d113580c4a34cc6017b42ca4e.jpg" alt="Imagen del Genero" width="200">
+</header>
+<div>
+    <h2>Peliculas</h2>
+    <div class="peliculas">
+        <div>
+            <div class="pelicula">
+                <a href="../peliculas/Blade_Runner.html">
+                    <h3>Blade Runner</h3>
+                </a>
+            </div>
+        </div>
+        <div>
+            <div class="pelicula">
+                <a href="../peliculas/The_Matrix.html">
+                    <h3>The Matrix</h3>
+                </a>
+            </div>
+        </div>
+        <div>
+            <div class="pelicula">
+                <a href="../peliculas/Interstellar.html">
+                    <h3>Interstellar</h3>
+                </a>
+            </div>
+        </div>
+        <div>
+            <div class="pelicula">
+                <a href="../peliculas/Avatar.html">
+                    <h3>Avatar</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<a class="volver" href="../index.html">Volver al Indice de Generos</a>
+</body>
+</html>

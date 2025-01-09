@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "generos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "nombre": {
+            "type": "string"
+          },
+          "imagen": {
+            "type": "string",
+            "format": "uri"
+          },
+          "peliculas": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "titulo": {
+                  "type": "string"
+                },
+                "detalles": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "sinopsis": {
+                        "type": "string"
+                      },
+                      "director": {
+                        "type": "string"
+                      },
+                      "anyo": {
+                        "type": "integer",
+                        "minimum": 1800,
+                        "maximum": 2025
+                      },
+                      "duracion": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "imagen": {
+                        "type": "string",
+                        "format": "uri"
+                      }
+                    },
+                    "required": ["sinopsis", "director", "anyo", "duracion", "imagen"]
+                  }
+                }
+              },
+              "required": ["titulo", "detalles"]
+            },
+            "minItems": 1
+          }
+        },
+        "required": ["nombre", "imagen", "peliculas"]
+      }
+    }
+  },
+  "required": ["generos"]
+}

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Comedia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #c00;
+            padding: 10px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        h2 {
+            color: #c00;
+        }
+
+        .peliculas {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .pelicula {
+            background-color: #5d5c5c;
+            border: 2px solid #c00;
+            border-radius: 5px;
+            margin: 10px;
+            padding: 10px;
+            width: 200px;
+            text-align: center;
+            transition: transform 0.3s;
+        }
+
+        .pelicula:hover {
+            transform: scale(1.05);
+        }
+
+        .volver {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #c00;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .volver:hover {
+            background-color: #900;
+        }
+    </style>
+</head>
+
+<body>
+<header>
+    <h1>Comedia</h1>
+    <img src="https://i.pinimg.com/736x/54/e3/e1/54e3e19f1c20c00338fbecc63b15e846.jpg" alt="Imagen del Genero" width="200">
+</header>
+<div>
+    <h2>Peliculas</h2>
+    <div class="peliculas">
+        <div>
+            <div class="pelicula">
+                <a href="../peliculas/Solo_en_casa.html">
+                    <h3>Solo en casa</h3>
+                </a>
+            </div>
+        </div>
+        <div>
+            <div class="pelicula">
+                <a href="../peliculas/Scary_Movie.html">
+                    <h3>Scary Movie</h3>
+                </a>
+            </div>
+        </div>
+        <div>
+            <div class="pelicula">
+                <a href="../peliculas/Campeones.html">
+                    <h3>Campeones</h3>
+                </a>
+            </div>
+        </div>
+        <div>
+            <div class="pelicula">
+                <a href="../peliculas/Superbad.html">
+                    <h3>Superbad</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<a class="volver" href="../index.html">Volver al Indice de Generos</a>
+</body>
+</html>

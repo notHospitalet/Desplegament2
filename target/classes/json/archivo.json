@@ -1,0 +1,274 @@
+{
+  "generos": [
+    {
+      "nombre": "Thriller Psicologico",
+      "peliculas": [
+        {
+          "titulo": "Shutter Island",
+          "detalles": [
+            {
+              "sinopsis": "Un detective investiga la desaparición de un paciente en un hospital psiquiátrico.",
+              "director": "Martin Scorsese",
+              "anyo": 2010,
+              "duracion": 138,
+              "imagen": "https://i.pinimg.com/474x/49/2f/02/492f027436ff961d6e83d81092305ab0.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Memento",
+          "detalles": [
+            {
+              "sinopsis": "Un hombre con pérdida de memoria intenta encontrar al asesino de su esposa.",
+              "director": "Christopher Nolan",
+              "anyo": 2000,
+              "duracion": 113,
+              "imagen": "https://i.pinimg.com/474x/d4/8f/28/d48f28e42e78d6ec9e8f7b975f9a9542.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Split",
+          "detalles": [
+            {
+              "sinopsis": "Un hombre con trastorno de personalidad múltiple secuestra a tres chicas.",
+              "director": "M. Night Shyamalan",
+              "anyo": 2016,
+              "duracion": 117,
+              "imagen": "https://i.pinimg.com/474x/e4/34/3a/e4343aa3e0166dbfb461447d32faa661.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "El Hoyo",
+          "detalles": [
+            {
+              "sinopsis": "Un sistema de prisión vertical pone a prueba la humanidad de los reclusos.",
+              "director": "Galder Gaztelu-Urrutia",
+              "anyo": 2019,
+              "duracion": 94,
+              "imagen": "https://i.pinimg.com/736x/46/49/9e/46499e8a374b5c3cfe234864f8d8ea1c.jpg"
+            }
+          ]
+        }
+      ],
+      "imagen": "https://i.pinimg.com/736x/de/86/6e/de866ed4a48f219ffd69932c34d8e1c6.jpg"
+    },
+    {
+      "nombre": "Comedia",
+      "peliculas": [
+        {
+          "titulo": "Solo en casa",
+          "detalles": [
+            {
+              "sinopsis": "Un niño es olvidado en casa y defiende su hogar de ladrones.",
+              "director": "Chris Columbus",
+              "anyo": 1990,
+              "duracion": 103,
+              "imagen": "https://i.pinimg.com/474x/00/a0/27/00a027ae2dd28fa6658a41e9c700d17e.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Scary Movie",
+          "detalles": [
+            {
+              "sinopsis": "Una parodia de las películas de terror más populares.",
+              "director": "Keenen Ivory Wayans",
+              "anyo": 2000,
+              "duracion": 88,
+              "imagen": "https://i.pinimg.com/474x/38/95/ab/3895ab36faf6ee307c17239a24ee4475.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Campeones",
+          "detalles": [
+            {
+              "sinopsis": "Un entrenador de baloncesto encuentra redención en un equipo especial.",
+              "director": "Javier Fesser",
+              "anyo": 2018,
+              "duracion": 124,
+              "imagen": "https://i.pinimg.com/474x/86/82/e2/8682e2abb26aaa34f02ad5ac80d0a728.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Superbad",
+          "detalles": [
+            {
+              "sinopsis": "Dos amigos intentan disfrutar de una última fiesta antes de ir a la universidad.",
+              "director": "Greg Mottola",
+              "anyo": 2007,
+              "duracion": 113,
+              "imagen": "https://i.pinimg.com/474x/a4/86/50/a486504e8854d00e7fcb84506308a189.jpg"
+            }
+          ]
+        }
+      ],
+      "imagen": "https://i.pinimg.com/736x/54/e3/e1/54e3e19f1c20c00338fbecc63b15e846.jpg"
+    },
+    {
+      "nombre": "Drama",
+      "peliculas": [
+        {
+          "titulo": "Lo Imposible",
+          "detalles": [
+            {
+              "sinopsis": "Una familia lucha por sobrevivir tras un tsunami devastador.",
+              "director": "J.A. Bayona",
+              "anyo": 2012,
+              "duracion": 114,
+              "imagen": "https://i.pinimg.com/474x/21/e4/ae/21e4ae32e2e61109620b2d5820c29a93.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Forrest Gump",
+          "detalles": [
+            {
+              "sinopsis": "La vida extraordinaria de un hombre común con un gran corazón.",
+              "director": "Robert Zemeckis",
+              "anyo": 1994,
+              "duracion": 142,
+              "imagen": "https://i.pinimg.com/474x/f3/70/64/f37064b11051f85f68e16dd42bdd8c4b.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "El padrino",
+          "detalles": [
+            {
+              "sinopsis": "La saga de una familia de la mafia italoamericana.",
+              "director": "Francis Ford Coppola",
+              "anyo": 1972,
+              "duracion": 175,
+              "imagen": "https://i.pinimg.com/474x/fc/88/39/fc883967205a33dab9b41899ce6a6572.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "El indomable Will Hunting",
+          "detalles": [
+            {
+              "sinopsis": "Un joven genio lucha con sus demonios internos.",
+              "director": "Gus Van Sant",
+              "anyo": 1997,
+              "duracion": 126,
+              "imagen": "https://i.pinimg.com/474x/90/a3/b5/90a3b523d8a9e3180d7069352fd4b88e.jpg"
+            }
+          ]
+        }
+      ],
+      "imagen": "https://i.pinimg.com/736x/06/be/0b/06be0b2f23f562837af40a8e36e7023b.jpg"
+    },
+    {
+      "nombre": "Ciencia Ficción",
+      "peliculas": [
+        {
+          "titulo": "Blade Runner",
+          "detalles": [
+            {
+              "sinopsis": "Un cazador de replicantes se enfrenta a dilemas éticos.",
+              "director": "Ridley Scott",
+              "anyo": 1982,
+              "duracion": 117,
+              "imagen": "https://i.pinimg.com/474x/4b/1c/ab/4b1cab19aed05183b61c11e399b53833.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "The Matrix",
+          "detalles": [
+            {
+              "sinopsis": "Un programador descubre la verdadera naturaleza de su realidad.",
+              "director": "Lana y Lilly Wachowski",
+              "anyo": 1999,
+              "duracion": 136,
+              "imagen": "https://i.pinimg.com/474x/91/c3/9d/91c39d4185a353962feccc77f5f10c01.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Interstellar",
+          "detalles": [
+            {
+              "sinopsis": "Un grupo de astronautas busca un nuevo hogar para la humanidad.",
+              "director": "Christopher Nolan",
+              "anyo": 2014,
+              "duracion": 169,
+              "imagen": "https://i.pinimg.com/736x/8e/0d/ab/8e0dab8699be85720ce55845065bf6dc.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Avatar",
+          "detalles": [
+            {
+              "sinopsis": "Un marine explora un planeta alienígena habitado por una raza avanzada.",
+              "director": "James Cameron",
+              "anyo": 2009,
+              "duracion": 162,
+              "imagen": "https://i.pinimg.com/474x/8b/2f/a6/8b2fa6fb94810cd0d335b479896f7fc8.jpg"
+            }
+          ]
+        }
+      ],
+      "imagen": "https://i.pinimg.com/736x/10/f9/91/10f9914d113580c4a34cc6017b42ca4e.jpg"
+    },
+    {
+      "nombre": "Terror",
+      "peliculas": [
+        {
+          "titulo": "The Conjuring",
+          "detalles": [
+            {
+              "sinopsis": "Una familia enfrenta una presencia demoníaca en su casa.",
+              "director": "James Wan",
+              "anyo": 2013,
+              "duracion": 112,
+              "imagen": "https://i.pinimg.com/474x/b2/56/02/b2560240af7fd4514b837c8dd61249e6.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Insidious",
+          "detalles": [
+            {
+              "sinopsis": "Una familia trata de rescatar a su hijo atrapado en un reino espiritual.",
+              "director": "James Wan",
+              "anyo": 2010,
+              "duracion": 103,
+              "imagen": "https://i.pinimg.com/474x/38/11/69/3811698624d9a3e8ee6664d72d93b02c.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "It",
+          "detalles": [
+            {
+              "sinopsis": "Un grupo de niños enfrenta a un payaso terrorífico que los acecha.",
+              "director": "Andy Muschietti",
+              "anyo": 2017,
+              "duracion": 135,
+              "imagen": "https://i.pinimg.com/474x/f0/98/9d/f0989de3ac62f2eda549392e879c4cc8.jpg"
+            }
+          ]
+        },
+        {
+          "titulo": "Hereditary",
+          "detalles": [
+            {
+              "sinopsis": "Una familia lidia con secretos oscuros y fuerzas malignas.",
+              "director": "Ari Aster",
+              "anyo": 2018,
+              "duracion": 127,
+              "imagen": "https://i.pinimg.com/474x/5f/d5/c3/5fd5c3e60b9d20e10c0db05e1b87eae1.jpg"
+            }
+          ]
+        }
+      ],
+      "imagen": "https://i.pinimg.com/736x/c5/af/fa/c5affa9cec346364c33dcee415fe45ac.jpg"
+    }
+  ]
+}
